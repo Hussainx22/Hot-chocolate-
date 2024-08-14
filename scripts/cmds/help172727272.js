@@ -52,7 +52,7 @@ module.exports = {
       const totalCommands = commands.size;
       msg += `\n\n╭────────────➣\n\n𝙸 𝙷𝙰𝚅𝙴  ${totalCommands} 𝙲𝙼𝙳𝚂\n𝚃𝚈𝙿𝙴 ☞︎︎︎${prefix} 𝙷𝙴𝙻𝙿 𝚃𝙾 𝚅𝙸𝙴𝚆 𝙰-6𝚈 𝙰𝙻𝙻 𝙲𝙼𝙳\n𝙰𝙽𝙳 𝙻𝙴𝙰𝚁𝙽 𝙷𝙾𝚆 𝚃𝙾 𝚄𝚂𝙴 𝙰-6𝚈 𝙲𝙼𝙳\n➪☁︎╰──────────────➣`;
       msg += ``;
-      msg += `\n╭──────────────➣\n𝙰-6𝚈 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 ☞︎︎︎𝚁𝙾𝙼𝙸𝙼 𝙰𝙷𝙼𝙴𝙳 ❄︎\n
+      msg += `\n╭──────────────➣\n𝙰-6𝚈 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 ☞︎︎︎• ➠ Hᴜssᴀɪɴ 〆 ❄︎\n
 ╰──────────────➣`; 
 
       const imageUrl = "https://i.imgur.com/x5S4mb4.mp4"; 
