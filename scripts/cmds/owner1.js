@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: '𝚁𝙾𝙼𝙸𝙼 𝙰𝙷𝙼𝙴𝙳',
+      name: ' ➠ Hᴜssᴀɪɴ 〆',
       gender: 'Male',
       age: 'Unknown',
       height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/profile.php?id=61559283257942',
-      nick: '𝚁𝙾𝙼𝙸𝙼'
+      facebookLink: 'https://www.facebook.com/profile.php?id=100071009500533&mibextid=LQQJ4d',
+      nick: '➠ Hᴜssᴀɪɴ 〆'
     };
 
     const bold = 'https://i.imgur.com/DDO686J.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
