@@ -16,13 +16,13 @@ module.exports = {
 	},
 	onStart: async function ({ message }) {
 		const botName = "𝙰-6𝚈 𝙱𝙾𝚃";
-		const botPrefix = "*";
-		const authorName = "𝚁𝙾𝙼𝙸𝙼 𝙰𝙷𝙼𝙴𝙳";
-		const ownAge = "++";
+		const botPrefix = "/";
+		const authorName = "• ➠ Hᴜssᴀɪɴ 〆";
+		const ownAge = "16+";
 		const teamName = "𝙰-6𝚈 𝚃𝙴𝙰𝙼";
-		const authorFB = "https://www.facebook.com/profile.php?id=61557377382818";
-		const authorInsta = "https://www.instagram.com/aruu.babe";
-		const tikTok = "https://www.tiktok.com/@mixxa_ff1";
+		const authorFB = "https://www.facebook.com/profile.php?id=100071009500533&mibextid=LQQJ4d";
+		const authorInsta = "NAI🤓";
+		const tikTok = "OITA POTIBONDIRA CALAY😛";
 		const st = "𝙰𝙲𝚃𝙸𝚅𝙴";
 		const urls = JSON.parse(fs.readFileSync('a6.json'));
 		const link = urls[Math.floor(Math.random() * urls.length)];
