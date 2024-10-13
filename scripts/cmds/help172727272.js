@@ -55,7 +55,7 @@ module.exports = {
       msg += `\n╭──────────────➣\n𝙰-6𝚈 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 ☞︎︎︎• ➠ Hᴜssᴀɪɴ 〆 ❄︎\n
 ╰──────────────➣`; 
 
-      const imageUrl = "https://i.imgur.com/x5S4mb4.mp4"; 
+      const imageUrl = "http://g-v1.onrender.com/IOG2ONjpr.mp4"; 
       await message.reply({
         body: msg,
         attachment: await axios({
