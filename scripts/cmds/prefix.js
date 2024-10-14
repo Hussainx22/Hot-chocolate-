@@ -15,7 +15,7 @@ module.exports = {
  if (event.body && event.body.toLowerCase() === "prefix") {
  return message.reply({
  body: `☢︎︎🂱𝙷𝙴𝙻𝙻𝙾 𝙸'𝙼 𝙰-6𝚈 ♕︎\n𝙼𝚈 𝙿𝚁𝙴𝙵𝙸𝚇 [ ! ]\n𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 • ➠ Hᴜssᴀɪɴ 〆❁☦︎ \n 𝚃𝚈𝙿𝙴 ☞︎︎︎ 𝙷𝙴𝙻𝙿 𝚃𝙾 𝚅𝙸𝙴𝚆 𝙰-6𝚈 𝙰𝙻𝙻 𝙲𝙼𝙳𝚂 ☔︎🂱\n␈𝚃𝙽𝚇 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝙰-6𝚈 𒊹︎︎︎`,
- attachment: await global.utils.getStreamFromURL("http://g-v1.onrender.com/IOG2ONjpr.mp4")
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/BoTn0CA.mp4")
  });
  }
  }
