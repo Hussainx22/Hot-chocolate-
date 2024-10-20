@@ -1,12 +1,12 @@
 [
     {
         "key": "dbln",
-        "value": "%7B%22100078600526471%22%3A%22tLTS9kT2%22%2C%2261551736391665%22%3A%22YPGQLgx8%22%2C%2261564393526626%22%3A%22QxMrURhH%22%2C%2261563548284372%22%3A%22I3LkY1r7%22%7D",
+        "value": "%7B%22100078600526471%22%3A%22tLTS9kT2%22%2C%2261551736391665%22%3A%22YPGQLgx8%22%2C%2261564393526626%22%3A%22QxMrURhH%22%2C%2261563548284372%22%3A%22i7bFw1Qa%22%2C%22100014540824709%22%3A%22S5u6fMGe%22%7D",
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
     },
     {
         "key": "datr",
@@ -14,8 +14,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
     },
     {
         "key": "sb",
@@ -23,8 +23,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
     },
     {
         "key": "ps_l",
@@ -32,8 +32,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
     },
     {
         "key": "ps_n",
@@ -41,71 +41,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
-    },
-    {
-        "key": "locale",
-        "value": "en_GB",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
-    },
-    {
-        "key": "m_pixel_ratio",
-        "value": "1.445365309715271",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
-    },
-    {
-        "key": "wd",
-        "value": "499x1016",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
-    },
-    {
-        "key": "c_user",
-        "value": "61563548284372",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
-    },
-    {
-        "key": "fr",
-        "value": "1qEGj6PBhXBfqEgUR.AWVQa7jF9YpvMc4REbMNcIr8NF4.Bm4ZWZ..AAA.0.0.BnEIEx.AWXZpSxN9Zg",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
-    },
-    {
-        "key": "xs",
-        "value": "28%3AMlcU_bhc9dImaQ%3A2%3A1729134897%3A-1%3A13886",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
-    },
-    {
-        "key": "fbl_st",
-        "value": "100622493%3BT%3A28818915",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
     },
     {
         "key": "vpd",
@@ -113,16 +50,88 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
     },
     {
-        "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2650%3Btimestamp%3A1729134899",
+        "key": "dpr",
+        "value": "1.5891023874282837",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-17T03:15:07.864Z",
-        "lastAccessed": "2024-10-17T03:15:07.864Z"
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "1.445365309715271",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
+    },
+    {
+        "key": "wd",
+        "value": "499x1016",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61563548284372",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
+    },
+    {
+        "key": "fr",
+        "value": "1qEGj6PBhXBfqEgUR.AWX5LJ2lJKj1sCqrKfMAx1EfvO4.Bm4ZWZ..AAA.0.0.BnFRlb.AWXZYT4ft6I",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
+    },
+    {
+        "key": "xs",
+        "value": "42%3Ajkbac92GR4GWXw%3A2%3A1729435995%3A-1%3A13886",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.291Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101439807%3BT%3A28823933",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-20T14:53:29.291Z",
+        "lastAccessed": "2024-10-20T14:53:29.292Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2650%3Btimestamp%3A1729435997",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-20T14:53:29.292Z",
+        "lastAccessed": "2024-10-20T14:53:29.292Z"
     }
 ]
