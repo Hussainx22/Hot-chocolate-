@@ -1,0 +1,36 @@
+const axios = require("axios");
+
+module.exports.config = {
+  name: "genix",
+  aliases: ["c", "ime"],
+  version: "1.6.9",
+  author: "Nazrul",
+  role: 2,
+  description: "Generate unique image",
+  category: "image",
+  countDown: 3,
+  guide: {
+    en: "{pn} write a prompt"
+  }
+};
+
+module.exports.onStart = async ({ api, event, args }) => {
+  const { threadID, messageID } = event;
+  const prompt = args.join(" ");
+  if (!prompt) {
+    return api.sendMessage("please provide a prompt", threadID, messageID);
+  }
+  try {
+    const res = await axios.get(`https://x9-apis-2.onrender.com/nazrul/seaart?prompt=${encodeURIComponent(prompt)}`);
+    const image = res.data.imgUrl;
+    const imgUrl = await axios.get(image, { responseType: 'stream' });
+
+    api.sendMessage({
+      body: "✅ Here's your Generated image ✨",
+      attachment: imgUrl.data
+    }, threadID, messageID);
+
+  } catch (error) {
+    await api.sendMessage(`💔 error: ${error.message}`, threadID, messageID);
+  }
+};
