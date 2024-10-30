@@ -22,10 +22,10 @@ module.exports = {
 		const authorNumber = "_𝟎𝟏𝟕********";
 		const Status = "_𝘚𝘪𝘯𝘨𝘭𝘦 𝘗𝘳𝘰 𝘔𝘢𝘹 ⛱";
 		const urls = [
-"https://i.postimg.cc/HkMsVBHq/received-942209963951680.jpg",
-"https://i.postimg.cc/Mp9tfbDY/received-1117727902690315.jpg",
+"https://i.imgur.com/enALXUY.mp4",
+"https://i.imgur.com/3K8HfKf.mp4",
 "https://i.postimg.cc/L6RVy0QT/desktop-wallpaper-black-aesthetic-anime-ps4.jpg",
-"https://i.postimg.cc/xCMK5KKh/Attitude-facebook-cover-photo-1.jpg"
+"https://i.imgur.com/RUS1yls.mp4"
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
